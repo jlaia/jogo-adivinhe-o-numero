@@ -7,9 +7,7 @@ Esse jogo tem a função de gerar números pseudoaleatórios, e através do reco
 <img src="https://uploaddeimagens.com.br/imagens/D4Qq6Ww" 
 
 ✔️ Técnicas e tecnologias utilizadas
-* Tecnologias: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+* Tecnologias: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
 * HTML: Comporta uma estrutura simples e concisa.
 * CSS: Simples e de fácil manutenção com a pseudo-classe :root.
 * Javascript: Cada código está divido em pastas, um arquivo para sortear, outro para as validações, e outro para fazer o
