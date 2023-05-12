@@ -4,7 +4,6 @@ escola Alura.
 
 🔨 Funcionalidades do projeto:
 Esse jogo tem a função de gerar números pseudoaleatórios, e através do reconhecimento de voz, confrontar com o palpite do usuário.
-<img src="https://uploaddeimagens.com.br/imagens/D4Qq6Ww" 
 
 ✔️ Técnicas e tecnologias utilizadas
 * Tecnologias: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
