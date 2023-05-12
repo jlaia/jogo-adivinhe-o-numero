@@ -18,7 +18,7 @@ https://jlaia.github.io/jogo-adivinhe-o-numero/
 https://jogo-adivinhe-o-numero-indol.vercel.app/
 
 🛠️ Abrir e rodar o projeto                                   
-Para acessa e utilizar o jogo, basta clicar nos links descritos acima, permitir o uso do microfone e fazer um palpite utilizando
+Para acessa e utilizar o jogo basta clicar nos links descritos acima, permitir o uso do microfone e fazer um palpite utilizando
 a voz. O jogo lhe dará dicas caso não acerte o número na primeira tentativa.
 
 📚 Mais informações do curso                                                               
