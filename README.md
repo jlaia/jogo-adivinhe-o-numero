@@ -14,7 +14,7 @@ reconhecimento de voz utilizando o Web Speech API.
 
 📁 Acesso ao projeto             
 O projeto pode ser acessado através dos links:
-https://jlaia.github.io/jogo-adivinhe-o-numero/
+https://jlaia.github.io/jogo-adivinhe-o-numero/                                                                     
 https://jogo-adivinhe-o-numero-indol.vercel.app/
 
 🛠️ Abrir e rodar o projeto                                   
